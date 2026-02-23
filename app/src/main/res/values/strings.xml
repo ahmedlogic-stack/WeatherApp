@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_matters_n_we_have_got_the_details">Weather Matters,\n We Have Got the Details</string>
+</resources>
